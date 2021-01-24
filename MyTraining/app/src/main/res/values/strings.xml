@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Training</string>
+    <string name="login">Login</string>
+    <string name="page_title">Home</string>
+    <string name="favorite">favorite</string>
+    <string name="Username">Hallo %1$s!</string>
+    <string name="search">Search</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="training_title">Title</string>
+</resources>
