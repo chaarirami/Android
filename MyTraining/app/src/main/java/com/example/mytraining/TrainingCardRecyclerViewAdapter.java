@@ -24,7 +24,7 @@ public class TrainingCardRecyclerViewAdapter extends RecyclerView.Adapter<Traini
     @NonNull
     @Override
     public TrainingCardViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType){
-        View layoutView = LayoutInflater.from(parent.getContext()).inflate(R.layout.home_card, parent, false){
+        View layoutView = LayoutInflater.from(parent.getContext()).inflate(R.layout.home_card, parent, false);{
         return new TrainingCardViewHolder(layoutView);
         }
     }

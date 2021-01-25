@@ -21,9 +21,9 @@ public class ComponentEntry {
     public static List<ComponentEntry> initializeData(){
         List<ComponentEntry> componentEntries = new ArrayList<>();
         //TODO Replace images
-        componentEntries.add(new ComponentEntry("Cardio", "Add new activity", R.drawable.common_signin_btn_icon_dark));
-        componentEntries.add(new ComponentEntry("Resistance Training", "Add new activity", R.drawable.common_signin_btn_icon_dark));
-        componentEntries.add(new ComponentEntry("Nutrition", "Add meal", R.drawable.common_signin_btn_icon_dark));
+        componentEntries.add(new ComponentEntry("Cardio", "Add new activity", R.drawable.barbell));
+        componentEntries.add(new ComponentEntry("Resistance Training", "Add new activity", R.drawable.barbell));
+        componentEntries.add(new ComponentEntry("Nutrition", "Add meal", R.drawable.barbell));
         return componentEntries;
     }
 }
